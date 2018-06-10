@@ -1,2 +1,2 @@
 # QuickTodo-chrome
-A to-do list for chrome.
+A chrome extension to manage all your ongoing activities.
